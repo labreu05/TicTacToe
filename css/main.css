@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+}
+th, td {
+    height: 140px;
+    width: 140px;
+    font-size: 80px;
+    text-align: center;
+}
+
+td {
+	border: 5px solid black;
+}
+
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
